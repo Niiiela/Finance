@@ -12,3 +12,8 @@
     padding: 40px 0;
     border-bottom: 1px solid #858282;
 }
+
+footer p a
+{
+    margin: 5px 15px;
+}
